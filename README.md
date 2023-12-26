@@ -1,7 +1,7 @@
  <p align="center"> 
 Profili Gezen Kişi Sayısı<br>
   
- <img src="https://profile-counter.glitch.me/egeapi/count.svg" />
+ <img src="https://moe-counter.glitch.me/get/@egeapi" />
 </p>
 
 
